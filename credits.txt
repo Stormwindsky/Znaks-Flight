@@ -1,0 +1,28 @@
+All sprites are made by Stormwindsky under license CC0 1.0
+
+All code sources are open source under license MIT-0
+
+Sounds & Music are from Freesound.org & OpenGameArt.org
+
+Spring Spring, Vehicle, hanzlab, ani_music. LilMati, dr_skitz
+
+source here:
+
+https://opengameart.org/content/power-up-sound-effects
+
+https://freesound.org/people/ani_music/sounds/244982/
+
+https://opengameart.org/content/col-legno
+
+https://opengameart.org/content/arcadesoundtracks
+
+https://freesound.org/people/dr_skitz/sounds/353925/
+
+https://freesound.org/people/LilMati/sounds/403296/
+
+
+Font i used is made by the user GGBotNet
+
+can be found here:
+
+https://ggbot.itch.io/ggbotnet-fonts-cc0

@@ -1,0 +1,12 @@
+[package]
+name = "znaks-flight"
+version = "0.1.0"
+edition = "2021"
+authors = ["Stormwindsky"]
+description = "A Flappy Bird clone titled Znak's Flight"
+license = "MIT-0"
+
+[dependencies]
+macroquad = { version = "0.4", features = ["audio"] }
+resvg = "0.40"
+open = "5.0"
